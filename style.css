@@ -1,0 +1,14 @@
+
+
+
+.pic2{
+  postion:absolute;
+  left:20px;
+  bottom:30px
+}
+.pic{
+}
+
+#main_canvas{
+  postion:relative;
+}
